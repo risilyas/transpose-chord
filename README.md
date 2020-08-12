@@ -10,27 +10,27 @@ Java script yang digunakan untuk membuat blog chord gitar agar bisa auto menaikk
 
 contoh:
 
-```<p data-key="C">
-Intro :<br />
-C<br />
-F G Em Am<br />
-Dm  G<br />
-<br />
-C      G    Am   G<br />
-Memang salahku<br />
-F            C<br />
-Terlalu dingin denganmu<br />
-Dm        G<br />
-Terlalu mendiamkanmu<br />
-C         G<br />
-Atu..<br />
-F<br />
-Memperhatikanku<br />
-...............<br />
-............<br />
-..........<br />
-.........<br />
-</p>```
+```<p data-key="C">```
+Intro :```<br />```
+C```<br />```
+F G Em Am```<br />```
+Dm  G```<br />```
+```<br />```
+C      G    Am   G```<br />```
+Memang salahku```<br />```
+F            C```<br />```
+Terlalu dingin denganmu```<br />```
+Dm        G```<br />```
+Terlalu mendiamkanmu```<br />```
+C         G```<br />```
+Atu..```<br />```
+F```<br />```
+Memperhatikanku```<br />```
+...............```<br />```
+............```<br />```
+..........```<br />```
+.........```<br />```
+</p>```<br />```
 Selalu awali postingan dengan tag tersebut agar tool auto transpose aktif.
 
 # DEMO
