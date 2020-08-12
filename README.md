@@ -10,27 +10,27 @@ Java script yang digunakan untuk membuat blog chord gitar agar bisa auto menaikk
 
 contoh:
 
-```<p data-key="C">```
-Intro :```<br />```
-C```<br />```
-F G Em Am```<br />```
-Dm  G```<br />```
-```<br />```
-C      G    Am   G```<br />```
-Memang salahku```<br />```
-F            C```<br />```
-Terlalu dingin denganmu```<br />```
-Dm        G```<br />```
-Terlalu mendiamkanmu```<br />```
-C         G```<br />```
-Atu..```<br />```
-F```<br />```
-Memperhatikanku```<br />```
-...............```<br />```
-............```<br />```
-..........```<br />```
-.........```<br />```
-</p>```<br />```
+```<p data-key="C">```<br />
+Intro :```<br />```<br />
+C```<br />```<br />
+F G Em Am```<br />```<br />
+Dm  G```<br />```<br />
+```<br />```<br />
+C      G    Am   G```<br />```<br />
+Memang salahku```<br />```<br />
+F            C```<br />```<br />
+Terlalu dingin denganmu```<br />```<br />
+Dm        G```<br />```<br />
+Terlalu mendiamkanmu```<br />```<br />
+C         G```<br />```<br />
+Atu..```<br />```<br />
+F```<br />```<br />
+Memperhatikanku```<br />```<br />
+...............```<br />```<br />
+............```<br />```<br />
+..........```<br />```<br />
+.........```<br />```<br />
+</p>```<br />```<br />
 Selalu awali postingan dengan tag tersebut agar tool auto transpose aktif.
 
 # DEMO
